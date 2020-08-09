@@ -9,7 +9,7 @@ import lxml.etree
 class DoubanSpider(scrapy.Spider):
     name = 'maoyan_movie'
     allowed_domains = ['maoyan.com']
-    start_urls = ['http://maoyan.com/']
+    #start_urls = ['http://maoyan.com/']
     # 起始URL列表
     start_urls = ['https://maoyan.com/films?showType=3']
 
