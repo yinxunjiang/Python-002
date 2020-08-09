@@ -123,7 +123,7 @@ DATABASES = {
     'host' : 'localhost',
     'port' : 3306,
     'user' : 'root',
-    'password' : 'rootroot',
-    'database' : 'test',
+    'password' : 'root',
+    'database' : 'test1',
     'charset' : 'utf8mb4'
 }

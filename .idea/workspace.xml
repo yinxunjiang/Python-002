@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23139c79-b4bb-4bf3-8d20-8ffc3a3fd78f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week02/work1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week02/work1/ip_crawler/ip_crawler/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/week02/work1/ip_crawler/ip_crawler/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,42 +35,76 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="csv" value="4" />
-          <entry key="py" value="67" />
+          <entry key="py" value="71" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="8" />
-          <entry key="Python" value="67" />
+          <entry key="Python" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="19" />
           <entry key="dummy" value="13" />
-          <entry key="py" value="2576" />
+          <entry key="py" value="2604" />
           <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="25" />
-          <entry key="Python" value="2595" />
+          <entry key="Python" value="2623" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week02/work2/login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+            <state relative-caret-position="330">
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week02/work1/ip_crawler/ip_crawler/spiders/maoyan.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-154">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week02/work1/ip_crawler/ip_crawler/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-94" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week02/work1/ip_crawler/ip_crawler/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week02/work1/ip_crawler/ip_crawler/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="125" column="22" selection-start-line="125" selection-start-column="22" selection-end-line="125" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -103,6 +136,7 @@
         <option value="$PROJECT_DIR$/week01/work2/maoyan/maoyan/settings.py" />
         <option value="$PROJECT_DIR$/week01/work2/maoyan/maoyan/spiders/maoyan_movie.py" />
         <option value="$PROJECT_DIR$/week02/work2/login.py" />
+        <option value="$PROJECT_DIR$/week02/work1/ip_crawler/ip_crawler/settings.py" />
       </list>
     </option>
   </component>
@@ -137,6 +171,27 @@
               <item name="Python-002" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-002" type="462c0819:PsiDirectoryNode" />
               <item name="week02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-002" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-002" type="462c0819:PsiDirectoryNode" />
+              <item name="week02" type="462c0819:PsiDirectoryNode" />
+              <item name="work1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-002" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-002" type="462c0819:PsiDirectoryNode" />
+              <item name="week02" type="462c0819:PsiDirectoryNode" />
+              <item name="work1" type="462c0819:PsiDirectoryNode" />
+              <item name="ip_crawler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-002" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-002" type="462c0819:PsiDirectoryNode" />
+              <item name="week02" type="462c0819:PsiDirectoryNode" />
+              <item name="work1" type="462c0819:PsiDirectoryNode" />
+              <item name="ip_crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="ip_crawler" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python-002" type="b2602c69:ProjectViewProjectNode" />
@@ -339,12 +394,12 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16420911" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16420911" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34067547" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34067547" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3985765" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -353,7 +408,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3291815" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.35389134" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.35389134" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3291815" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -531,9 +586,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week02/work1/ip_crawler/ip_crawler/spiders/maoyan.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/week02/work1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -543,11 +595,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week02/work2/login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        <state relative-caret-position="330">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week02/work1/ip_crawler/ip_crawler/spiders/maoyan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-154">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week02/work1/ip_crawler/ip_crawler/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-94" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week02/work1/ip_crawler/ip_crawler/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week02/work1/ip_crawler/ip_crawler/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="125" column="22" selection-start-line="125" selection-start-column="22" selection-end-line="125" selection-end-column="22" />
         </state>
       </provider>
     </entry>

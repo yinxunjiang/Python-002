@@ -30,7 +30,7 @@ class MaoyanPipeline:
         m_time = item['m_time']
         
        # 建立连接，创建tb2表 
-        TABLE_NAME = 'tb2'
+        TABLE_NAME = 'movies'
         try:
             conn = pymysql.connect(**DATABASES)
             con1 = conn.cursor()
