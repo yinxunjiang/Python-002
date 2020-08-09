@@ -3,6 +3,7 @@ import scrapy
 from bs4 import BeautifulSoup
 #from week01.work2.maoyan.maoyan.items import MaoyanItem
 from maoyan.items import MaoyanItem
+#from ..items import MaoyanItem
 from scrapy.selector import Selector
 import lxml.etree
 class DoubanSpider(scrapy.Spider):
